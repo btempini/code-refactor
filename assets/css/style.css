@@ -1,3 +1,4 @@
+/* Universal selector to change default styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* NavBar Styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,7 @@ body {
     margin-left: 25px;
 }
 
+/* Link Styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -69,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main section styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -188,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer styling */
 .footer {
     padding: 30px;
     clear: both;
