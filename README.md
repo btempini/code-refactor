@@ -1,8 +1,6 @@
 # Code Refactor
 
-<!-- [Click here to view live website!](https://btempini.github.io/code-refactor/) -->
-
-<a href="https://btempini.github.io/code-refactor/" target="_blank">Click here to view live website!</a>
+[Click here to view live website!](https://btempini.github.io/code-refactor/)
 
 ## Refactoring starter code for accessibility
 
